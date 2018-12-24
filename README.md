@@ -18,7 +18,7 @@ Plan
 -
 **FLOWCHART**
 
-![Flowchart image](Images/Safety quiz flowchart.png)
+![Flowchart image](https://gyazo.com/05626ab091a0dfe7f8295f9d59075e86)
 **PRELIMINARY DESIGN**
 
 
