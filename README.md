@@ -18,7 +18,7 @@ Plan
 -
 **FLOWCHART**
 
-![Flowchart image]("Images/Safety quiz flowchart.png")
+![Flowchart image](Images/Safety quiz flowchart.png)
 **PRELIMINARY DESIGN**
 
 
