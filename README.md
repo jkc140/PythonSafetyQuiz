@@ -20,16 +20,17 @@ Plan
 
 [![FlowChart](https://i.gyazo.com/05626ab091a0dfe7f8295f9d59075e86.png)](https://gyazo.com/05626ab091a0dfe7f8295f9d59075e86)
 **PRELIMINARY DESIGN**
-
--Main Menu
+-
+**Main Menu**
 [![Main Menu](https://i.gyazo.com/2e00acf0a5230c125e9450147b79e03b.png)](https://gyazo.com/2e00acf0a5230c125e9450147b79e03b)
 
--Question example
+**Question example**
 [![Question](https://i.gyazo.com/418186620e92d65e82f19f6583df8057.jpg)](https://gyazo.com/418186620e92d65e82f19f6583df8057)
 
--End Screen
+**End Screen**
 [![End Screen](https://i.gyazo.com/e81a2d83f570cf6134861f39d4203eac.jpg)](https://gyazo.com/e81a2d83f570cf6134861f39d4203eac)
 
 
 **OTHER**
+
 (Coming soon)
