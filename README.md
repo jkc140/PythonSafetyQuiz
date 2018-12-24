@@ -17,7 +17,7 @@ Due to the complexity of this project, our teacher has allowed us to work in as 
 Plan
 -
 **FLOWCHART**
-
+-
 [![FlowChart](https://i.gyazo.com/05626ab091a0dfe7f8295f9d59075e86.png)](https://gyazo.com/05626ab091a0dfe7f8295f9d59075e86)
 **PRELIMINARY DESIGN**
 -
@@ -32,5 +32,5 @@ Plan
 
 
 **OTHER**
-
+-
 (Coming soon)
